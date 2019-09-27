@@ -69,7 +69,23 @@ header{
   display:flex;
   flex-wrap:wrap;
 }
+img{
+  padding:20px;
+  margin:5px;
+}
 
+.image10{
+  margin-left: 50px;
+  }
+
+.image11{
+  margin-left:50px;
+}
+
+.image14{
+  margin-top: -50px;
+  margin-left:50px;
+}
 
 p {
   text-align:center;
